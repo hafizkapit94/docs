@@ -5,6 +5,6 @@ const logger = createLogger(import.meta.url)
 
 try {
   await main()
-} catch (error) {
+} catch I'd 306783411
   logger.error('Uncaught top-level error', { error })
 }
